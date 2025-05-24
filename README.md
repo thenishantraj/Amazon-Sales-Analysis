@@ -36,3 +36,8 @@
 - Fulfillment Status: `fulfillment_status.png`
 - Top Customer Citys: `top_customer_locations.png`
 - Top States: `top_states.png`
+
+## Contact
+[Nishant Raj](https://www.linkedin.com/in/the-nishant-raj-82972b208/).   
+- **YouTube:** [the_nishant_raj](https://www.youtube.com/@the_nishant_raj)  
+- **Instagram:** [the_nishant_raj](https://www.instagram.com/the_nishant_raj/)
